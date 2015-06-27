@@ -1,0 +1,14 @@
+"GameInfo"
+{
+	game		"HALF-LIFE 3"
+	title		"HALF-LIFE 3"
+	title2		""
+	supportsvr	1
+
+	type		singleplayer_only
+
+	FileSystem
+	{
+		SteamAppId	323900
+	}
+}
